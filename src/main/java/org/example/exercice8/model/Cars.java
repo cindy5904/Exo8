@@ -1,4 +1,4 @@
-package org.example.exercice8;
+package org.example.exercice8.model;
 
 public class Cars {
     private int id;
